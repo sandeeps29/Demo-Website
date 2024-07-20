@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Demo-Website/static/css/main.b61464e2.css",
+    "main.js": "/Demo-Website/static/js/main.b8caf8de.js",
+    "static/media/secure.png": "/Demo-Website/static/media/secure.4193051ab949fb00e390.png",
+    "static/media/check-eligibility.png": "/Demo-Website/static/media/check-eligibility.4aa9f6b872603469aec8.png",
+    "static/media/approval-chance.png": "/Demo-Website/static/media/approval-chance.92a4c4f4c0a685207a1b.png",
+    "static/media/compare-offer.png": "/Demo-Website/static/media/compare-offer.e6c7dbf2b6c3a4f55c26.png",
+    "static/media/zero-processing-img.png": "/Demo-Website/static/media/zero-processing-img.832765e61863cd39a8c2.png",
+    "static/media/decision.png": "/Demo-Website/static/media/decision.6262c3fdfe83247279a4.png",
+    "static/media/download-app.png": "/Demo-Website/static/media/download-app.26933fbd407abd11a935.png",
+    "static/media/InviteEarn-img1.png": "/Demo-Website/static/media/InviteEarn-img1.1bf11c48def616571cb8.png",
+    "static/media/contactlessKYC-img1.png": "/Demo-Website/static/media/contactlessKYC-img1.c631be173a951c2fe3af.png",
+    "static/media/trophy.png": "/Demo-Website/static/media/trophy.2fabe4fd913ec139adf1.png",
+    "static/media/logo.png": "/Demo-Website/static/media/logo.af59fb914479c15d55b9.png",
+    "static/media/federal-bank.jpeg": "/Demo-Website/static/media/federal-bank.855f32356b5da3f7bc78.jpeg",
+    "static/media/thfs_logo.png": "/Demo-Website/static/media/thfs_logo.d8fd87c794723d509651.png",
+    "static/media/Aditya-Birla-Finance-Ltd.png": "/Demo-Website/static/media/Aditya-Birla-Finance-Ltd.cbeb922ce12c0cd5df46.png",
+    "static/media/hdfc-loan.png": "/Demo-Website/static/media/hdfc-loan.7b1ddb8c7d20958c5a2e.png",
+    "static/media/idfc-loan.png": "/Demo-Website/static/media/idfc-loan.df94b89ed89b26d6e91b.png",
+    "static/media/icici-loan.png": "/Demo-Website/static/media/icici-loan.1e64b189ddc32d3bee28.png",
+    "static/media/yesbank-loan.png": "/Demo-Website/static/media/yesbank-loan.aa3d8036c3c0ff39dfe3.png",
+    "static/media/sbi-loans.png": "/Demo-Website/static/media/sbi-loans.34f510553e393543cd21.png",
+    "static/media/instagram.png": "/Demo-Website/static/media/instagram.9c16100eac55c253cbdc.png",
+    "static/media/hubtree.png": "/Demo-Website/static/media/hubtree.b653f0eaaa01968a6206.png",
+    "index.html": "/Demo-Website/index.html",
+    "main.b61464e2.css.map": "/Demo-Website/static/css/main.b61464e2.css.map",
+    "main.b8caf8de.js.map": "/Demo-Website/static/js/main.b8caf8de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b61464e2.css",
+    "static/js/main.b8caf8de.js"
+  ]
+}
